@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 About PrestaShop
 --------
 
@@ -114,3 +115,6 @@ Thank you for downloading and using the PrestaShop open-source e-commerce soluti
 [19]: http://doc.prestashop.com/display/PS16/System+Administrator+Guide
 [20]: http://addons.prestashop.com/
 [21]: CONTRIBUTORS.md
+=======
+# Prestashop-1.6.1.1
+>>>>>>> 8c423c7772035d8babb707683d283a17423efaa1
